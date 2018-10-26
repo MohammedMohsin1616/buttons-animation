@@ -12,6 +12,8 @@
 		42FD7CCA21835AAC00E1EA53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42FD7CC821835AAC00E1EA53 /* Main.storyboard */; };
 		42FD7CCC21835AB000E1EA53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42FD7CCB21835AB000E1EA53 /* Assets.xcassets */; };
 		42FD7CCF21835AB000E1EA53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42FD7CCD21835AB000E1EA53 /* LaunchScreen.storyboard */; };
+		42FD7CD721835C0400E1EA53 /* UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FD7CD621835C0400E1EA53 /* UIButton.swift */; };
+		42FD7CD9218362C300E1EA53 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42FD7CD8218362C300E1EA53 /* Helpers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		42FD7CCB21835AB000E1EA53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42FD7CCE21835AB000E1EA53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42FD7CD021835AB000E1EA53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42FD7CD621835C0400E1EA53 /* UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButton.swift; sourceTree = "<group>"; };
+		42FD7CD8218362C300E1EA53 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				42FD7CCB21835AB000E1EA53 /* Assets.xcassets */,
 				42FD7CCD21835AB000E1EA53 /* LaunchScreen.storyboard */,
 				42FD7CD021835AB000E1EA53 /* Info.plist */,
+				42FD7CD621835C0400E1EA53 /* UIButton.swift */,
+				42FD7CD8218362C300E1EA53 /* Helpers.swift */,
 			);
 			path = "Button Animations";
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			files = (
 				42FD7CC721835AAC00E1EA53 /* ViewController.swift in Sources */,
 				42FD7CC521835AAC00E1EA53 /* AppDelegate.swift in Sources */,
+				42FD7CD721835C0400E1EA53 /* UIButton.swift in Sources */,
+				42FD7CD9218362C300E1EA53 /* Helpers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
